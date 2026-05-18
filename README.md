@@ -238,6 +238,6 @@ Built as a portfolio project to demonstrate data pipeline and Sales Operations s
 All data in this repository is **completely fabricated** — no real financial information is included.
 
 **Author:** Karishma Jariwala
-**LinkedIn:** [linkedin.com/in/karishmajariwala24-gif](https://linkedin.com/in/karishmajariwala24-gif)
+**LinkedIn:** [linkedin.com/in/karishma-jariwala-1b15b233](https://linkedin.com/in/karishma-jariwala-1b15b233)
 
 
